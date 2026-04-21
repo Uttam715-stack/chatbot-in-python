@@ -1,0 +1,37 @@
+{
+    "hello": "Hi there! How can I assist you today?",
+    "how are you": "I'm doing great, how are you doing?",
+    "who are you": "I am a smart AI chatbuddy designed to help you with your queries.",
+    "bye": "Goodbye! Have a great day!",
+
+    "what is programming": "Programming is the process of writing instructions that a computer can execute.",
+    "what is python": "Python is a high-level, interpreted programming language known for its simplicity and readability.",
+    "what is java": "Java is an object-oriented programming language widely used for building cross-platform applications.",
+    "what is c language": "C is a powerful general-purpose programming language that provides low-level memory access and is widely used in system programming.",
+    "what is machine learning": "Machine learning is a subset of AI that enables computers to learn from data and improve performance without being explicitly programmed.",
+    "what is artificial intelligence": "Artificial intelligence is the science of making machines capable of performing tasks that require human-like intelligence.",
+    "what are types of ai": "There are three types of AI: Narrow AI, General AI, and Super AI.",
+    "what is super ai": "Super AI is a theoretical concept that surpasses human intelligence and can perform any intellectual task better than humans.",
+
+    "what is an algorithm": "An algorithm is a step-by-step procedure for solving a problem or performing a task.",
+    "what is data structure": "A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.",
+    "what is a variable": "A variable is a named storage location that holds a value which can change during program execution.",
+    "what is a function": "A function is a reusable block of code that performs a specific task.",
+    "what is recursion": "Recursion is a programming technique where a function calls itself to solve smaller instances of a problem.",
+    "what is object oriented programming": "Object-oriented programming is a paradigm based on objects and classes, focusing on encapsulation, inheritance, and polymorphism.",
+    "what is polymorphism": "Polymorphism allows objects of different classes to be treated as objects of a common superclass, enabling flexibility in code.",
+    "what is encapsulation": "Encapsulation is the practice of bundling data and methods that operate on that data within a single unit, usually a class.",
+    "what is inheritance": "Inheritance is a mechanism in OOP where one class can derive properties and behaviors from another class.",
+
+    "what is database": "A database is an organized collection of data that can be easily accessed, managed, and updated.",
+    "what is sql": "SQL stands for Structured Query Language and is used to manage and query relational databases.",
+    "what is normalization": "Normalization is the process of organizing data in a database to reduce redundancy and improve integrity.",
+    "what is primary key": "A primary key is a unique identifier for a record in a database table.",
+    "what is foreign key": "A foreign key is a field in one table that refers to the primary key in another table, establishing a relationship.",
+
+    "what is operating system": "An operating system is system software that manages computer hardware, software resources, and provides services for computer programs.",
+    "what is computer network": "A computer network is a collection of interconnected devices that can communicate and share resources.",
+    "what is internet": "The internet is a global network of interconnected computers that communicate using standardized protocols.",
+    "what is cloud computing": "Cloud computing is the delivery of computing services like storage, servers, and software over the internet.",
+    "what is cybersecurity": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks."
+}
